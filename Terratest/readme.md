@@ -1,4 +1,4 @@
-# Terraform Demonstration with Azure
+# Terratest Demonstration with Azure
 
 ## Prerequisites
 - [Go](https://golang.org/)
@@ -29,3 +29,22 @@ go mod tidy
 
 # Run Terraform tests
 go test -v -timeout 30m
+```
+
+
+### Video Demonistration
+For step by step demonistration watch this [Youtube Tutorail](https://youtu.be/tie0D44A9co?feature=shared)
+
+# Terratest Resources
+
+## Official Website
+
+Visit the [Official Terratest Website](https://terratest.gruntwork.io/) for detailed information and documentation.
+
+## GitHub Repository
+
+Explore the source code and contribute to Terratest on the [GitHub Repository](https://github.com/gruntwork-io/terratest).
+
+## Terratest Packages
+
+Check out the [Terratest Packages on pkg.go.dev](https://pkg.go.dev/github.com/gruntwork-io/terratest/modules) for comprehensive documentation on the Terratest modules.
